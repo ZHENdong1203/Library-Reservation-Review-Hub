@@ -1,0 +1,11 @@
+/* style.css */
+html, body, #app {
+  height: 100%;
+}
+
+body {
+  @apply text-white antialiased;
+}
+
+
+@import "tailwindcss";
